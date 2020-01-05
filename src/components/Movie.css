@@ -2,9 +2,11 @@
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
-    width: 45%;
+    width: 100%;
     background-color: white;
     margin-bottom: 70px;
+    margin-right: inherit;
+    padding-right: inherit;
     font-weight: 300;
     padding: 20px;
     border-radius: 5px;
@@ -13,11 +15,12 @@
       0 8px 16px -8px rgba(0, 0, 0, 0.3), 0 -6px 16px -6px rgba(0, 0, 0, 0.025);
   }
   
-  .movies .movie data {
+  .movies :link {
+    width: 45%;
     text-decoration: none;
     color: inherit;
   }
-  
+
   .movie img {
     position: relative;
     top: -50px;
