@@ -1,8 +1,8 @@
 # Movie App 2
-Movie App Made With React
+Movie App Made With React<br/>
 
 ## App
-Name : "Movie App"<br/>
+Name : "Movie App" - Updated Ver.<br/>
 Page : [https://danmin20.github.io/movie_app_2/](https://danmin20.github.io/movie_app_2/)
 
 ### 개발환경
