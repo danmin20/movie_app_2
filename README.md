@@ -1,5 +1,5 @@
 # Movie App 2
-Movie App Made With React<br/>
+Movie App made with React<br/>
 
 ## App
 Name : "Movie App" - Updated Ver.<br/>
